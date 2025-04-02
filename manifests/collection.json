@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://sd887.github.io/Old&New-TMDR.exam-Damiano.Baldi-1/manifests/OperaGarnier.json",
     "label" : "Opéra Garnier"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://sd887.github.io/Old&New-TMDR.exam-Damiano.Baldi-1/manifests/OperaGarnier",
+    "label" : "Opéra Garnier"
   } ]
 }
