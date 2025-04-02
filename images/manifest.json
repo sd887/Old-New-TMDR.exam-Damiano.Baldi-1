@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-1/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in sd887/Old-New-TMDR.exam-Damiano.Baldi-1 project"
+        ]
+    },
+    "items": []
+}
