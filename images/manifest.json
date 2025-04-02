@@ -7,5 +7,87 @@
             "All images loaded in sd887/Old-New-TMDR.exam-Damiano.Baldi-1 project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-1/images/OperaGarnier/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "OperaGarnier"
+                ]
+            },
+            "height": 3411,
+            "width": 5117,
+            "items": [
+                {
+                    "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-1/images/OperaGarnier/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-1/images/OperaGarnier/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-1/images/OperaGarnier/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 160,
+                                                "height": 107
+                                            },
+                                            {
+                                                "width": 320,
+                                                "height": 214
+                                            },
+                                            {
+                                                "width": 640,
+                                                "height": 427
+                                            },
+                                            {
+                                                "width": 1280,
+                                                "height": 853
+                                            },
+                                            {
+                                                "width": 2559,
+                                                "height": 1706
+                                            },
+                                            {
+                                                "width": 5117,
+                                                "height": 3411
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 5117,
+                                        "@id": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-1/images/OperaGarnier",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3411,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://sd887.github.io/Old-New-TMDR.exam-Damiano.Baldi-1/images/OperaGarnier/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
